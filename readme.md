@@ -1,0 +1,1 @@
+A project 4-szer fut le. Minden alkalommal a macska egy random kordinátára ugrik, amit a lufi követ, a kordináták értékétől függően a macska vagy "Good morning!"-ot, vagy "Guten Morgen!"-t mond, eközben nyávog is egyet minden alkalommal.
